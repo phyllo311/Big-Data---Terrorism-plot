@@ -1,2 +1,3 @@
 # Big-Data---Terrorism-plot
-Explore stacked area plots on Terrism dataset
+Data Visualization on US Terrorism
+Project from Big Data Course @ITEE Department University of Oulu
